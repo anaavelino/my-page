@@ -48,8 +48,8 @@
 
       .apresentation-photo {
         display: flex;
-        width: 15rem;
-        height: 15rem;
+        width: 12rem;
+        height: 12rem;
         align-items: center;
         justify-content: center;
       }
@@ -160,6 +160,10 @@
         font-size: small;
       }
     }
+  }
+  .main .galery {
+    top: 16rem;
+    padding: 8px;
   }
 }
 .bounce-in-top {
